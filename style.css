@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(168, 141, 106);
+}
+h1 {
+    color: rgb(128, 63, 16);
+    font-family:Arial, Helvetica, sans-serif
+}
+p span {
+    color: rgb(92, 62, 41);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+div.ff, div.sam {
+    display: inline;
+    background-color: rgb(155, 97, 83);
+    border-radius: 25px;
+    color: #fff;
+    margin-left:auto
+}
+div {
+    margin-left: 400px
+}
+p.pr {
+    margin-left: 500px;
+}
+h3 {
+    margin-left: 800px;
+}
+
